@@ -14,4 +14,4 @@ This is a **work-in-progress front-end clone** of an Amazon-style e-commerce web
 - Functional checkout logic
 - User authentication
 - Responsive design improvements
-- Delivery estimation system
+- Delivery estimation system and more functionalities
